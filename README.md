@@ -1,13 +1,12 @@
+<p><img src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" width="100px">
 
 
-### Hey there    <img src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" width="100px">
+### Hey there    
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/leonardo-bumbeers-16262911b/">
+  <img align="left" alt="leonardobumbeers's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=leonardobumbeers.leonardobumbeers)
 
@@ -15,6 +14,8 @@
 
 Hi, I'm [Leonardo Bumbeers](), a passionate self-taught Software Quality Assurance Enginner from Brazil. My passion for software lies with breaking them using elegant tests. I take great care in the experience, architecture, and code quality of the things I build.
 
+
+<br />
 
 **Languages and Tools:**  
 
