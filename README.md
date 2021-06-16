@@ -35,9 +35,9 @@ Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardo-bumbeers-162629
 <br />
 <br />
 
-**Take care of your software or I'll find a bug :**  
+**Take care of your software or I'll find bugs 🐞 :**  
 
-<p align="left"> <img src="https://media.giphy.com/media/mq5y2jHRCAqMo/giphy.gif" alt="GIF" />
+<p align="left"> <img src="https://media.giphy.com/media/26vUEEA0eLwZykG40/giphy.gif" alt="GIF" />
 
 
 
