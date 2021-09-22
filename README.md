@@ -23,6 +23,7 @@ Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardo-bumbeers-162629
 <code><img height="50" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/png/512/29/29165.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"></code>
 <code><img height="50" src="https://steemitimages.com/p/HNWT6DgoBc14riaEeLCzGYopkqYBKxpGKqfNWfgr368M9WqLXbwNTCiedpxTyzVAUARNhX4LG72TVSp5TNsjELZiChzrFsD9oiadYZep51eXycpABzhEfiaehrv"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/7385af6b55cfc953b4184bc390ec0f1c7f7f57e571b9bf324b9c62ce28185d81/687474703a2f2f692e696d6775722e636f6d2f397233784f46382e706e67"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/320565?s=180&v=4"></code>
