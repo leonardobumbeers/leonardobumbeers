@@ -19,12 +19,12 @@ Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardo-bumbeers-162629
 **Languages and Tools:**  
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a
 <code><img height="50" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/png/512/29/29165.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"></code>
 <code><img height="50" src="https://steemitimages.com/p/HNWT6DgoBc14riaEeLCzGYopkqYBKxpGKqfNWfgr368M9WqLXbwNTCiedpxTyzVAUARNhX4LG72TVSp5TNsjELZiChzrFsD9oiadYZep51eXycpABzhEfiaehrv"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/nightwatchjs/nightwatch/f214d79b3f7d0cf7602a6b57823420baaa3b5282/.github/assets/nightwatch-logo.svg"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/7385af6b55cfc953b4184bc390ec0f1c7f7f57e571b9bf324b9c62ce28185d81/687474703a2f2f692e696d6775722e636f6d2f397233784f46382e706e67"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/320565?s=180&v=4"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
