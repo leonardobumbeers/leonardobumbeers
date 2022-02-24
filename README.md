@@ -31,14 +31,5 @@ Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardo-bumbeers-162629
 <code><img height="50" src="https://camo.githubusercontent.com/0a16218f80a1832b5244500de2367b6985e2077efc4cd1f0c71dc38a4a348740/68747470733a2f2f6a656e6b696e732e696f2f696d616765732f6c6f676f732f6a656e6b696e732f6a656e6b696e732e706e67"></code>
 
 
-<br />
-<br />
-<br />
-
-**Take care of your software or I'll find bugs 🐞 :**  
-
-<p align="left"> <img src="https://media.giphy.com/media/26vUEEA0eLwZykG40/giphy.gif" alt="GIF" />
-
-
 
 
