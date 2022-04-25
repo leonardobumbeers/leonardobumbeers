@@ -1,8 +1,8 @@
 
 
-### Hey there    
+<h2> Hey there    </h2>
 
-<a href="https://www.linkedin.com/in/leonardo-bumbeers-16262911b/">
+<a href="https://www.linkedin.com/in/leonardobumbeers/">
   <img align="left" alt="leonardobumbeers's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -11,25 +11,41 @@
 
 <br />
 
-Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardo-bumbeers-16262911b/), a passionate self-taught Software Quality Assurance Enginner from Brazil. My passion for software lies with breaking them using elegant tests. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardobumbeers/), a passionate self-taught Software Quality Assurance Engineer from Brazil. My passion for software lies with breaking them using elegant tests. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 <br />
 
-**Languages and Tools:**  
+<h2>Languages and Tools </h2> 
+<br />
 
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png"></code>
-<code><img height="50" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/720ed473d178f9380291709d2223860ade4f3c7bc368e3fea1ad057b8dc9c6f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d6c696768742e737667"></code>
-<code><img height="50" src="https://seekvectors.com/storage/images/e201fbb65fcd03732437caeffc03c6f2.svg"></code>
-<code><img height="50" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/nightwatchjs/nightwatch/f214d79b3f7d0cf7602a6b57823420baaa3b5282/.github/assets/nightwatch-logo.svg"></code>
-<code><img height="50" src="https://steemitimages.com/p/HNWT6DgoBc14riaEeLCzGYopkqYBKxpGKqfNWfgr368M9WqLXbwNTCiedpxTyzVAUARNhX4LG72TVSp5TNsjELZiChzrFsD9oiadYZep51eXycpABzhEfiaehrv"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/7385af6b55cfc953b4184bc390ec0f1c7f7f57e571b9bf324b9c62ce28185d81/687474703a2f2f692e696d6775722e636f6d2f397233784f46382e706e67"></code>
-<code><img height="50" src="https://avatars.githubusercontent.com/u/320565?s=180&v=4"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/0a16218f80a1832b5244500de2367b6985e2077efc4cd1f0c71dc38a4a348740/68747470733a2f2f6a656e6b696e732e696f2f696d616765732f6c6f676f732f6a656e6b696e732f6a656e6b696e732e706e67"></code>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
