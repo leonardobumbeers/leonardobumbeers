@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardobumbeers/), a passionate self-taught Software Quality Assurance Engineer from Brazil. My passion for software lies with breaking them using elegant tests. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardobumbeers/), a passionate Software Quality Assurance Engineer from Brazil. My passion for software lies with breaking them using elegant tests. I take great care in the experience, architecture, and code quality of the things I build.
 
 
 <br />
