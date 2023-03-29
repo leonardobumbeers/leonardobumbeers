@@ -15,7 +15,7 @@ Hi, I'm [Leonardo Bumbeers](https://www.linkedin.com/in/leonardobumbeers/), a pa
 
 
 <br />
-👨‍💻 I've worked with the main automated technologies (Java, C#, Ruby, Selenium, Cucumber, Cypress, WebDriverIO and NightwatchJS)
+👨‍💻 I've worked with the main automated technologies (Javascript, Java, C#, Ruby, Selenium, Appium, Cucumber, Cypress, WebDriverIO and NightwatchJS)
 <br />
 👯 I’m looking to collaborate on Automated Tests and Open Source Projects
 <br />
