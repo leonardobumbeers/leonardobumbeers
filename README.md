@@ -2,9 +2,6 @@
 
 <h2> Hey there ✋ </h2>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=leonardobumbeers.leonardobumbeers)
-
 <br />
 
 Hi, I'm <a href="mailto:leo.brsouza@gmail.com">Leonardo Bumbeers</a>, a passionate Software Quality Assurance Engineer from Brazil. My passion for software lies in breaking them using elegant tests. I take great care in the experience, architecture, and code quality of the things I build.
